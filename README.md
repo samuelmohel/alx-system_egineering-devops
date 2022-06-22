@@ -1,2 +1,2 @@
-# alx-system_egineering-devops
-bash script project
+#!/bin/bash
+echo "My bash script project"
